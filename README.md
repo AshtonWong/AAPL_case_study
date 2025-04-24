@@ -3,8 +3,8 @@ This data analytics project investigates how Apple Inc. (AAPL) stock reacts to q
 
 The project includes:
 
-📊 Data collection from Investing.com (price data) and AlphaQuery.com (earnings data)
-🧹 A documented data cleaning and transformation process
-📉 Statistical analysis of earnings surprises vs. AAPL stock returns
-📈 Visualizations built using Tableau to highlight trends and correlations
-✅ Key insights to help understand how investors respond to AAPL earnings announcements
+📊 Data collection from Investing.com (price data) and AlphaQuery.com (earnings data)  
+🧹 A documented data cleaning and transformation process  
+📉 Statistical analysis of earnings surprises vs. AAPL stock returns  
+📈 Visualizations built using Tableau to highlight trends and correlations  
+✅ Key insights to help understand how investors respond to AAPL earnings announcements  
