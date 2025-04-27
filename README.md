@@ -8,3 +8,16 @@ The project includes:
 📉 Statistical analysis of earnings surprises vs. AAPL stock returns  
 📈 Visualizations built using Tableau to highlight trends and correlations  
 ✅ Key insights to help understand how investors respond to AAPL earnings announcements  
+
+Topic: The impact of earnings reports on short-term stock price movement.
+Problem: Determine how Apple's stock price reacts 1, 5, and 10 days after earnings announcements.
+Metrics: Stock price percentage changes and EPS surprise.
+Stakeholders: Investors, traders, and financial analysts.
+Audience: Financial professionals interested in data-driven stock market insights.
+
+** Data Cleaning and transformation
+
+
+
+
+
