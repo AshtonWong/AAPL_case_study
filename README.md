@@ -1,7 +1,7 @@
 # AAPL_case_study
-This data analytics project investigates how Apple Inc. (AAPL) stock reacts to quarterly earnings reports. By analyzing historical earnings data and AAPL's daily stock prices, the study explores the relationship between earnings surprises and short-term stock price movements over 1-day, 5-day, and 10-day periods.
+## The impact of earnings reports on short-term stock price movement.
 
-**The project includes:**
+**This project includes:**
 
 📊 Data collection from Investing.com (price data) and AlphaQuery.com (earnings data)  
 🧹 A documented data cleaning and transformation process  
@@ -9,7 +9,10 @@ This data analytics project investigates how Apple Inc. (AAPL) stock reacts to q
 📈 Visualizations built using Tableau to highlight trends and correlations  
 ✅ Key insights to help understand how investors respond to AAPL earnings announcements  
 
-## Topic: The impact of earnings reports on short-term stock price movement.
+###Project Overview
+This project investigates how Apple's earnings report announcements influence its stock price movements in the short term. Using historical stock data and earnings reports, the study analyzes stock price changes 1, 5, and 10 days after earnings announcements. The analysis follows a comprehensive data analytics process, from formulating a question to preparing, cleaning, analyzing, and sharing actionable insights.
+
+
 
 
 
