@@ -1,7 +1,7 @@
 # AAPL_case_study
 ## The impact of earnings reports on short-term stock price movement.
 
-This project investigates how Apple's earnings report announcements influence its stock price movements in the short term. Using historical stock data and earnings reports, the study analyzes stock price changes 1, 5, and 10 days after earnings announcements. The analysis follows a comprehensive data analytics process, from formulating a question to preparing, cleaning, analyzing, and sharing actionable insights.
+This project investigates how **Apple Inc's (Ticker: AAPL)** earnings report announcements influence its stock price movements in the short term. Using historical stock data and earnings reports, the study analyzes stock price changes 1, 5, and 10 days after earnings announcements. The analysis follows a comprehensive data analytics process, from formulating a question to preparing, cleaning, analyzing, and sharing actionable insights.
 
 **This project includes:**
 
