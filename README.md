@@ -12,20 +12,20 @@ This project investigates how Apple's earnings report announcements influence it
 ✅ Key insights to help understand how investors respond to AAPL earnings announcements  
 
 ### Problem Statement
-The question which this analysis aims to solve is: **How does Apple's stock price react to earnings report announcements in the short term?** Specifically, we examine the stock price movements 1, 5, and 10 days following these announcements.
+The question which this analysis aims to answer is: **How does Apple's stock price react to earnings report announcements in the short term?** Specifically, we examine the stock price movements 1, 5, and 10 days following these announcements.
 
 ### Data Sources
 **Stock Prices**: Historical AAPL closing prices were sourced from [Investing.com](investing.com).  
 **Earnings Reports**: Earnings per Share (EPS) data was obtained from [AlphaQuery.com](investing.com).
 
+### Data Preparation
+The data was gathered, cleaned and organized in Microsoft Excel to ensure consistency and relevance. Columns that were not needed were removed, and missing values were handled appropriately. New columns were created for calculation purposes along with columns that will be used for data analysis and visualization.
+
 The data used includes key fields such as:
-- **Date**: Date of earnings announcement.
+- **Annoucement Date**: Date of earnings announcement.
 - **Closing Price**: Apple's closing stock price on the given date.
 - **Estimated EPS**: Analysts' estimated earnings per share before the announcement.
 - **Actual EPS**: The actual earnings per share reported by Apple.
-
-### Data Preparation
-The data was cleaned and organized in Microsoft Excel to ensure consistency and relevance. Columns that were not needed were removed, and missing values were handled appropriately. New columns were created for calculation purposes along with columns that will be used for data analysis and visualization.
 
 The following new columns was used for data analysis and visualization:
 - **EPS Surprise**: The difference between the actual and estimated EPS.
@@ -37,6 +37,9 @@ Various interactive visualizations were created in Tableau to explore the relati
 The visualizations include:
 - **Scatter Plot**: Shows the correlation between EPS surprise and percentage change in stock price.
 - **Box-and-Whisker Plots**: Display the volatility of price changes 1, 5, and 10 days after earnings.
+
+### Key Insights
+There is no correlation found between EPS suprise and AAPL's stock movement. However, stock price volatility tends to spike as the earnings date approaches, especially when there's a significant difference between estimated and actual EPS.
 
 
 
