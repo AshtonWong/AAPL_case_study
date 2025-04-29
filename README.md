@@ -15,7 +15,7 @@ This project investigates how Apple's earnings report announcements influence it
 The question which this analysis aims to solve is: **How does Apple's stock price react to earnings report announcements in the short term?** Specifically, we examine the stock price movements 1, 5, and 10 days following these announcements.
 
 ### Data Sources
-**Stock Prices**: Historical AAPL closing prices were sourced from [Investing.com](investing.com).
+**Stock Prices**: Historical AAPL closing prices were sourced from [Investing.com](investing.com).  
 **Earnings Reports**: Earnings per Share (EPS) data was obtained from [AlphaQuery.com](investing.com).
 
 The data used includes key fields such as:
